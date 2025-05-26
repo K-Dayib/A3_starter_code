@@ -2,8 +2,8 @@
 COSC2804 - C++ Programming Studio - RMIT university
 
 ## Task Allocation
-- Team member 1: <Khalid Dayib, s3947672>
-- Team member 2: <Jane Doe, s123456>
+- Team member 1: <Jane Doe, s123456>
+- Team member 2: <Khalid Dayib, s3947672>
 - Team member 3: <Alex Kim, s123456>
 
 ## Branchers
